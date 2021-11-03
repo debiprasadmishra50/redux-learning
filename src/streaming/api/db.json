@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Title 1",
+      "description": "New Stream ",
+      "id": 1
+    },
+    {
+      "title": "Title 2 Stream",
+      "description": "ANother stream on CS GO",
+      "id": 2
+    },
+    {
+      "title": "TItle 3",
+      "description": "New stream on science",
+      "id": 3
+    },
+    {
+      "title": "I created this",
+      "description": "This stream was created by me. Please watch it.",
+      "userId": "104583437552675359915",
+      "id": 4
+    },
+    {
+      "title": "New Stream",
+      "description": "Another created stream video",
+      "userId": null,
+      "id": 5
+    }
+  ]
+}
